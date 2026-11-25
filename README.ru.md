@@ -1,16 +1,18 @@
-# MagicOS CN Tool — утилита HONOR для Windows
+# 🟢 MagicOS CN Tool
+
+**Haradreamer Tools · Windows · Без root**
+
+[🇬🇧 English](README.md) · [🇷🇺 Русский](README.ru.md) · [📥 Скачать](../../releases/latest)
 
 **MagicOS CN Tool** — независимая Windows-утилита разработчика **Haradreamer** для настройки китайских смартфонов HONOR с MagicOS посредством ADB.
 
-[English README](README.md) · [Подключение и устранение ошибок ADB](docs/INSTALLATION.md) · [История изменений](CHANGELOG.md)
+## 📥 Скачать
 
-## Скачать
+**[MagicOS CN Tool 7.2.1 — официальный релиз Windows](../../releases/latest)**
 
-**[Официальные релизы GitHub](https://github.com/Haradreamer/Honor-Tools-CN/releases)**
+Этот публичный репозиторий служит для распространения сборок, инструкций и обратной связи.  Исходники и приватные материалы разработки здесь не размещаются.
 
-Этот публичный репозиторий служит для распространения сборок, инструкций и обратной связи. **Файл программы доступен только после добавления установочного архива или EXE в опубликованный Release.** Исходники и приватные материалы разработки здесь не размещаются.
-
-## Возможности
+## ✨ Возможности
 
 В зависимости от версии утилита позволяет:
 
@@ -20,13 +22,13 @@
 - Вводить собственные команды через **ADB-терминал**.
 - Проверять подключение и выполнять доступные сервисные действия.
 
-Набор функций и совместимость зависят от версии программы и прошивки телефона. **Isle и AutoFace распространяются отдельно**.
+Набор функций и совместимость зависят от версии программы и прошивки телефона. **Isle, AutoFace и Magic Hub распространяются отдельно**.
 
-## Требования
+## 📱 Требования
 
 Windows, подходящий кабель передачи данных и ADB-драйвер для USB-подключения либо настроенная беспроводная отладка. На телефоне нужно включить «Для разработчиков» → «Отладка по USB» и подтвердить разрешение компьютеру.
 
-## Быстрый старт
+## ⚙️ Быстрый старт
 
 1. Скачайте опубликованную версию из [Releases](https://github.com/Haradreamer/Honor-Tools-CN/releases).
 2. Распакуйте архив, если он предусмотрен.
@@ -36,16 +38,23 @@ Windows, подходящий кабель передачи данных и ADB-
 
 [Подробная инструкция и частые ошибки](docs/INSTALLATION.md).
 
-## Важно
+## ⚠️ Важно
 
 Отключение системных компонентов может нарушить работу телефона. Перед изменениями создайте резервную копию данных и фиксируйте отключённые пакеты. Не выполняйте непонятные ADB-команды. Не следует применять действия к устройствам без разрешения владельца.
 
-## Связь с разработчиком
 
-[Сообщить об ошибке](https://github.com/Haradreamer/Honor-Tools-CN/issues) · [4PDA — основная тема](https://4pda.to/forum/index.php?showtopic=1119615&view=findpost&p=145819882)
+[Подробная инструкция](docs/INSTALLATION.md) · [История изменений](CHANGELOG.md)
 
-Другие проекты: [Isle](https://github.com/Haradreamer/Isle-HONOR-app) и [AutoFace](https://github.com/Haradreamer/Honor-AutoFace).
+## 🌐 Другие проекты Haradreamer Tools
 
-[Добровольная поддержка на Boosty](https://boosty.to/haradreamer).
+- 🔵 [Isle](https://github.com/Haradreamer/Isle-HONOR-app) — Magic Capsule и AOD
+- 🟣 [AutoFace](https://github.com/Haradreamer/Honor-AutoFace) — Подтверждение распознавания лица
+- 🟠 [Magic Hub](https://github.com/Haradreamer/Magic-Hub-app) — Жесты Google
 
-Проект независимый и не связан с HONOR или HUAWEI.
+## 💬 Сообщество и поддержка
+
+[Telegram](https://t.me/isle_universal) · [4PDA](https://4pda.to/forum/index.php?showtopic=1119615&view=findpost&p=145819882) · [Сообщить об ошибке](../../issues) · [Boosty](https://boosty.to/haradreamer)
+
+Бесплатный независимый проект. Добровольная поддержка разработки. Не является официальным продуктом HONOR, HUAWEI или Google.
+
+**Haradreamer**
